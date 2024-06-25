@@ -1,0 +1,5 @@
+Product type,SKU,Customer demographics,Shipping carriers,Supplier name,Location,Inspection results,Transportation modes,Routes
+100,100,100,100,100,100,100,100,100
+3,100,4,3,5,5,3,4,3
+skincare,SKU0,Unknown,Carrier B,Supplier 1,Kolkata,Pending,Road,Route A
+40,1,31,43,27,25,41,29,43
